@@ -65,6 +65,6 @@
   </a>
 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/44/2/streamlit-logo-png_seeklogo-441815.png" alt="streamlit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" alt="streamlit" width="40" height="40"/>
   </a>
 </p>
