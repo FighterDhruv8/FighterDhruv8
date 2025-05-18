@@ -47,6 +47,14 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/x3gdrogoamvuvjemehbr" alt="keras" width="40" height="40"/>
   </a>
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo-300x300.png" alt="pytorch" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0" alt="langchain" width="40" height="40"/>
+  </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -54,5 +62,9 @@
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://images.seeklogo.com/logo-png/44/2/streamlit-logo-png_seeklogo-441815.png" alt="streamlit" width="40" height="40"/>
   </a>
 </p>
